@@ -871,7 +871,7 @@ echo "<a href='/simexamerica/Inicio' ><i class='cil-paperclip'></i></a>";
                 <table class="table table-hover table-striped">
                   <tbody>
                   <tr>
-                  <td class="mailbox-name"> 1</td>
+                  <td class="mailbox-name">xxx</td>
                    <td class="mailbox-name"><a href="read-mail.html">{{{value sender_userid}}}</a></td>
                     <td class="mailbox-subject"><b>{{{value sujeto}}}</b> - Trying to find a solution to this problem...
                     </td>
