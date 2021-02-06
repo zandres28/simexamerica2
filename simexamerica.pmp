@@ -903,7 +903,7 @@ function Page_DataRendering(&$header)
 $(".fa-angle-left").addClass("fa-plus-square-o").removeClass("fa-angle-left");
 ]]></CustomScript>
   <CustomScript ScriptType="Template" ScriptCodeType="Table" ScriptName="Content" ScriptCtrlID="custom" ScriptL1Key="chat_ini.php" ScriptL2Key=""><![CDATA[<?php
-
+//cambio de prueba
 require_once('classes/BD.class.php');
 //include_once "defines.php";
 //BD::conn();
